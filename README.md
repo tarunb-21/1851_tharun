@@ -60,7 +60,7 @@ Enter Age: 19
 Enter Level: 4
 Enter Score: 3000
 Player added successfully!
-Below is a **Technical Requirements section** that you can directly add to your GitHub `README.md` for the **Player Profile Management System in C**.
+Below is a **Technical Requirements section**.
 
 ---
 
