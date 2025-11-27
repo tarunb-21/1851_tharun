@@ -112,3 +112,17 @@ Below is a **Technical Requirements section** that you can directly add to your 
 4. The program will reload saved player profiles every time it starts
 
 ---
+
+
+SCREENSHOTS
+
+<img width="1920" height="1080" alt="Screenshot (194)" src="https://github.com/user-attachments/assets/388e99ec-19e8-4593-bab1-012bcbd8818f" />
+<img width="1920" height="1080" alt="Screenshot (193)" src="https://github.com/user-attachments/assets/78944ebf-ca1d-4579-aa06-123dd0c14e9a" />
+<img width="1920" height="1080" alt="Screenshot (192)" src="https://github.com/user-attachments/assets/5d56e61b-3bfd-4a29-82b5-2828fa5ae3f6" />
+<img width="1920" height="1080" alt="Screenshot (191)" src="https://github.com/user-attachments/assets/2a0c79af-9ac8-4e3c-9d63-510e9209da7d" />
+<img width="1920" height="1080" alt="Screenshot (190)" src="https://github.com/user-attachments/assets/50b0cafd-3a65-4444-9412-3e2e189ca867" />
+<img width="1920" height="1080" alt="Screenshot (189)" src="https://github.com/user-attachments/assets/d5893d0c-5399-4964-9fe4-b8b52a567a67" />
+<img width="1920" height="1080" alt="Screenshot (188)" src="https://github.com/user-attachments/assets/4036e65e-6724-496f-b51f-b1a1919adc58" />
+<img width="1920" height="1080" alt="Screenshot (187)" src="https://github.com/user-attachments/assets/16b72b01-4791-42cd-9ee1-3d49ede5290b" />
+<img width="1920" height="1080" alt="Screenshot (186)" src="https://github.com/user-attachments/assets/a536d412-09ca-448f-8989-798cdb3d05da" />
+<img width="1920" height="1080" alt="Screenshot (185)" src="https://github.com/user-attachments/assets/b577d5a5-f56a-4e29-a5bb-8c0b024f7d14" />
