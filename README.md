@@ -1,3 +1,5 @@
+TARUN COURSE PROJECT:-
+
 ## 📌 Abstract
 
 The **Player Profile Management System** is a console-based C application designed to store, manage, and update gaming player records efficiently. Using structured programming and file handling, the system allows users to create and manage multiple player profiles with details such as name, age, level, and score. It includes search, score update, and automatic data loading from file, making it a lightweight yet robust player database management system.
