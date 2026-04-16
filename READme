@@ -1,0 +1,87 @@
+🏥 Healthcare Monitoring Device Network (C Project)
+
+
+📌 Overview
+This project implements a Healthcare Monitoring Device Network using the Graph Data Structure in C. It simulates how medical devices (like heart monitors, oxygen sensors, etc.) are connected and managed within a hospital network.
+The system supports full CRUD operations (Create, Read, Update, Delete) on devices and allows visualization of their network connections using an adjacency matrix.
+
+
+🎯 Features
+➕ Add new medical devices (Create)
+📋 View all registered devices (Read)
+✏️ Update device details (Update)
+❌ Delete devices from the network (Delete)
+🔗 Create connections between devices
+📊 Display network graph (Adjacency Matrix)
+
+
+
+🧱 Data Structures Used
+Structure (struct) → To store device details
+Graph (Adjacency Matrix) → To represent connections
+Arrays → For storing devices and network relationships
+
+
+
+⚙️ Technologies
+Language: C
+Compiler: GCC / Turbo C / Any standard C compiler
+Concept: Graph Theory + CRUD Operations
+
+
+🖥️ How It Works
+Each device contains:
+ID → Unique identifier
+Name → Device type (e.g., ECG, BP Monitor)
+Status → Active / Inactive / Fault
+Connections between devices are stored in an adjacency matrix, where:
+1 = Connected
+0 = Not connected
+
+
+
+▶️ How to Run
+Copy the code into a file:
+Bash
+healthcare_network.c
+
+
+Compile the program:
+Bash
+gcc healthcare_network.c -o network
+
+
+Run the executable:
+Bash
+./network
+
+
+📷 Sample Menu
+
+--- Healthcare Device Network ---
+1. Add Device
+2. View Devices
+3. Update Device
+4. Delete Device
+5. Add Connection
+6. View Network
+7. Exit
+
+
+
+🧪 Example Use Case
+Add devices like:
+Heart Monitor
+Oxygen Sensor
+Temperature Sensor
+Connect them to simulate a hospital ICU network
+Monitor device status and connections
+
+
+
+🚀 Future Enhancements
+🔄 Implement BFS/DFS traversal
+💾 Add file storage (persistent data)
+⚠️ Real-time alert system
+🌐 Convert into GUI application
+🗄️ Database integration
