@@ -1,0 +1,65 @@
+--- Healthcare Device Network ---
+1. Add Device
+2. View Devices
+3. Update Device
+4. Delete Device
+5. Add Connection
+6. View Network
+7. Exit
+Enter choice: 1
+
+Enter ID: 101
+Enter Name: ECG
+Enter Status: Active
+Device added successfully.
+
+Enter choice: 1
+Enter ID: 102
+Enter Name: Ventilator
+Enter Status: Idle
+Device added successfully.
+
+Enter choice: 2
+
+Devices List:
+ID: 101 | Name: ECG | Status: Active
+ID: 102 | Name: Ventilator | Status: Idle
+
+Enter choice: 5
+Enter Device 1 ID: 101
+Enter Device 2 ID: 102
+Connection added.
+
+Enter choice: 6
+
+Network Graph (Adjacency Matrix):
+0 1
+1 0
+
+Enter choice: 3
+Enter Device ID to update: 102
+Enter new name: Vent
+Enter new status: Active
+Device updated.
+
+Enter choice: 2
+
+Devices List:
+ID: 101 | Name: ECG | Status: Active
+ID: 102 | Name: Vent | Status: Active
+
+Enter choice: 4
+Enter Device ID to delete: 101
+Device deleted.
+
+Enter choice: 2
+
+Devices List:
+ID: 102 | Name: Vent | Status: Active
+
+Enter choice: 6
+
+Network Graph (Adjacency Matrix):
+0
+
+Enter choice: 7
